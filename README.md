@@ -1,1 +1,2 @@
-# sampltesting file for knowing git
+# sample
+testing file for knowing git
